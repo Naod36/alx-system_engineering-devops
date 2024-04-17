@@ -2,3 +2,4 @@
 # connect to your server using the private key ~/.ssh/school
 # echo "SSH Public key" >> ~/.ssh/authorized_keys
 ssh -i ~/.ssh/school ubuntu@54.196.208.177
+ssh -i ~/.ssh/school ubuntu@35.168.8.135
